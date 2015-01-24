@@ -549,3 +549,6 @@
 [submodule "vendor/grammars/turtle.tmbundle"]
 	path = vendor/grammars/turtle.tmbundle
 	url = https://github.com/peta/turtle.tmbundle
+[submodule "vendor/grammars/language-monte"]
+	path = vendor/grammars/language-monte
+	url = https://github.com/monte-language/language-monte

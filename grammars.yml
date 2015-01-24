@@ -312,6 +312,8 @@ vendor/grammars/mercury-tmlanguage:
 - source.mercury
 vendor/grammars/monkey.tmbundle:
 - source.monkey
+vendor/grammars/language-mont:
+- source.monte
 vendor/grammars/moonscript-tmbundle:
 - source.moonscript
 vendor/grammars/nemerle.tmbundle:

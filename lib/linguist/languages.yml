@@ -1701,6 +1701,15 @@ M:
   tm_scope: source.lisp
   ace_mode: lisp
 
+Monte:
+  type: programming
+  extensions:
+  - .mt
+  interpreters:
+  - monte
+  tm_scope: source.monte
+  ace_mode: text
+
 MTML:
   type: markup
   color: "#0095d9"
