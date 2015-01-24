@@ -2424,6 +2424,14 @@ MQL5:
   tm_scope: source.mql5
   ace_mode: c_cpp
   language_id: 427
+Monte:
+  type: programming
+  extensions:
+  - .mt
+  interpreters:
+  - monte
+  tm_scope: source.monte
+  ace_mode: text
 MTML:
   type: markup
   color: "#b7e1f4"

@@ -803,3 +803,6 @@
 [submodule "vendor/grammars/language-fontforge"]
 	path = vendor/grammars/language-fontforge
 	url = https://github.com/Alhadis/language-fontforge
+[submodule "vendor/grammars/language-monte"]
+	path = vendor/grammars/language-monte
+	url = https://github.com/monte-language/language-monte
